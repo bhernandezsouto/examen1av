@@ -1,4 +1,4 @@
-
+/* Commit Inicial. */
 package examencod;
 
 public class ExamenCOD {
